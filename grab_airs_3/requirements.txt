@@ -1,0 +1,7 @@
+lxml
+pycurl
+selection
+weblib
+six
+user_agent
+grab
